@@ -1,0 +1,21 @@
+{
+    "pc": "com.ikhwandev.modjailbreak",
+    "kang_zayvius": [
+       {
+         "id": "1",
+         "tittle": "Judul 1",
+         "date": "2021-01-14",
+         "link_file": "https://archive.org/download/truk-muatan-sound-system-led-v-2/Bus%20Oleng/Truk_Muatan_Sound_System_LED%2B%2B_V2.zip",
+         "format_file":"zip",
+         "images": "https://modbussidterbaru.com/wp-content/uploads/2020/12/mod-bussid-truck-rollis-terpal-gayor.jpg"
+       },
+       {
+        "id": "2",
+        "tittle": "Judul 2",
+        "date": "2021-01-14",
+        "link_file": "https://archive.org/download/truk-muatan-sound-system-led-v-2/Bus%20Oleng/Truk_Muatan_Sound_System_LED%2B%2B_V2.zip",
+        "format_file":"zip",
+        "images": "https://modbussidterbaru.com/wp-content/uploads/2020/12/mod-bussid-truck-rollis-terpal-gayor.jpg"
+      }
+    ]
+ }
